@@ -6,7 +6,15 @@ src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 
 "><img src="https://github-profile-trophy.vercel.app/?username=Chey-san" alt="Chey-san" /></a> </p>
+- 🔭 I’m A *BCA | Student
 
+- 🌱 I’m currently learning **Everything**
+
+- 🤝 I’m looking for help with **Different devlopers**
+
+- 💜 How to reach me **@its_chey_7**
+
+- ⚡ Fun fact **I like music,sports,anime and you**
 
 
 
