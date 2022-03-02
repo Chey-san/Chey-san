@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chey-san</h1>
+<h1 align="center">~ 💫 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮✨ 💜 ~</h1>
+
+<r><h1 align="center">Hi 👋, I'm Chey-san</h1>
 <h3 align="center">| Learner | Student |</h3>
 <img 
 src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-4d71-9865-ff17ebab0898.gif"
