@@ -34,5 +34,7 @@ src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chey-san&show_icons=true&theme=blue&show_owner=true&count_private=true">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chey-san&show_icons=true&locale=en&layout=compact" alt="Chey-san" /></p>
+
 
 
