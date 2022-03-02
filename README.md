@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Chey-san/Chey-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Chey-san</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">| Learner | Student |</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+
+src="https://user-images.githubusercontent.com/77143046/142734177-0c9651f0-4696-476b-a5e9-dadff5ad3fac.gif"
+
+<p align="left"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
