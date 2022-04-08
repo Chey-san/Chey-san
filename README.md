@@ -14,7 +14,7 @@ src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-
 
 - 🤝 I’m looking for help with **Different devlopers**
 
-- 💜 How to reach me **@its_chey_7** IG ID
+- 💜 How to reach me **@its_chey7** IG ID
 
 - ⚡ Fun fact **I like music,sports,anime and you**
 
