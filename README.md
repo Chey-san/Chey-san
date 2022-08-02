@@ -6,6 +6,15 @@
 src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-4d71-9865-ff17ebab0898.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chey-san&label=Profile%20views&color=0e75b6&style=flat" alt="Chey-san" /> </p>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/Fadilzain">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=⭕✨+Hi+am+Chey-san+and+Still+learning+𝙾𝚏;how+to+deploy+and+create;best+regards+Chey-san+plz+follow+And+we+should;work+together+on+More+Things🤖✌️✨."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
 "><img src="https://github-profile-trophy.vercel.app/?username=Chey-san" alt="Chey-san" /></a> </p>
 - 🔭 I’m A *BCA | Student
