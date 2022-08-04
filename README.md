@@ -21,7 +21,8 @@ src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-
 
 
 "><img src="https://github-profile-trophy.vercel.app/?username=Chey-san" alt="Chey-san" /></a> </p>
--https://chey-san.github.io/My-Website-Chey-san/
+- 💻 https://chey-san.github.io/My-Website-Chey-san/
+
 - 🔭 I’m A *BCA | Student
 
 - 🌱 I’m currently learning **Everything**
