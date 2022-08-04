@@ -29,8 +29,7 @@ src="https://user-images.githubusercontent.com/97988840/156427759-82bbb56f-ac75-
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rqhFgbbKwnb9MLmUQDhG6&cover_image=true&theme=default)](https://github.com/Chey-san/Chey-san)
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31pmgfviio66zprmanfkp5n2azny&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pmgfviio66zprmanfkp5n2azny&cover_image=true&theme=default&bar_color=ff00ff&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pmgfviio66zprmanfkp5n2azny&cover_image=true&theme=default)](https://github.com/Chey-san/Chey-san)
 
 
 
